@@ -1,3 +1,5 @@
+Report link: https://github.com/atalapatra72-bit/Airbnb-NYC-Open-Data-Analysis/blob/main/Report.pdf
+
 Overview
 This project investigates factors influencing Airbnb reviews in New York City using the AB_NYC_2019 dataset. The analysis explores the relationship between room types, neighborhoods, and review frequency, providing insights for hosts and prospective guests on how these variables impact engagement and review activity.
 
